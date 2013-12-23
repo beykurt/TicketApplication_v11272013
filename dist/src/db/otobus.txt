@@ -1,0 +1,5 @@
+34BUS01 & Ýstanbul & Ankara & 10:00 & 20:00
+34BUS02 & Adapazarý & Ankara & 14:00 & 21:00
+34BUS03 & Ankara & Ýzmir & 13:00 & 22:00
+34BUS04 & Ýstanbul & Ýzmir & 15:00 & 16:00
+34BUS05 & Ýstanbul & Adapazarý & 17:00 & 21:00

@@ -1,0 +1,25 @@
+ID & 27
+28456789321 & Mert & Derman & 34BUS05 & 8 & 1
+12365478987 & Hakan & Aslan & 34BUS04 & 44 & 3
+286428642864 & Mehmet & Ali & 34BUS01 & 1 & 4
+123654 & Hasan & Cömert & 34BUS04 & 24 & 5
+123654 & Hasan & Cömert & 34BUS02 & 4 & 6
+286428642864 & Mehmet & Ali & 34BUS02 & 20 & 7
+123654 & Hasan & Cömert & 34BUS03 & 3 & 8
+987654 & Mehmet & Mert & 34BUS01 & 41 & 9
+987654 & Mehmet & Mert & 34BUS03 & 22 & 11
+123789 & Burak & Gülses & 34BUS03 & 10 & 12
+774411 & Asým & Þekip & 34BUS02 & 24 & 13
+963741 & Hasan & Sahin & 34BUS02 & 19 & 14
+123789 & Burak & Gülses & 34BUS04 & 40 & 15
+1236514235 & Gamze & Dayý & 34BUS05 & 20 & 16
+321455 & Meltem & Dertsiz & 34BUS01 & 14 & 17
+9988774455 & Volkan & Sezgin & 34BUS02 & 44 & 18
+12312523634 & Ezgi & Beykurt & 34BUS02 & 18 & 19
+9127835 & Ýhsan & Büyük & 34BUS03 & 8 & 20
+1236547789 & Hakan & Korkusuz & 34BUS04 & 20 & 21
+2864885 & Sami & Derin & 34BUS02 & 32 & 23
+7657870981 & Erkan & Zengin & 34BUS02 & 17 & 24
+096454489 & Adem & Büyük & 34BUS05 & 22 & 25
+123672342 & Cemal & Tahir & 34BUS05 & 5 & 26
+123654 & Hasan & Cömert & 34BUS01 & 27 & 27

@@ -1,0 +1,10 @@
+34BUS01 & D & D & B & D & B & D & B & B & B & B & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & B & D & D & B & B & B & B & B & B & B & B & B & B & B & B & D & B & B & D
+34BUS02 & D & B & D & D & B & B & B & B & B & B & B & B & B & B & B & B & B & B & D & D & B & B & B & D & B & B & B & B & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & D
+34BUS03 & D & B & D & B & B & B & B & D & B & D & B & B & B & B & B & B & B & B & B & B & D & D & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B
+34BUS04 & D & D & D & B & D & D & B & D & B & B & D & B & B & B & B & B & B & B & B & D & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & D & B & B & B & D
+34BUS05 & D & B & B & D & D & B & B & D & B & B & B & B & B & B & B & B & B & B & B & D & B & D & B & B & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & B & B & D & D & B
+34BUS01 & D & D & B & D & B & D & B & B & B & B & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & B & D & D & B & B & B & B & B & B & B & B & B & B & B & B & D & B & B & D
+34BUS02 & D & B & D & D & B & B & B & B & B & B & B & B & B & B & B & B & B & D & D & D & B & B & B & D & B & B & B & B & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & B
+34BUS03 & D & B & D & B & B & B & B & D & B & D & B & B & B & B & B & B & B & B & B & B & D & D & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B
+34BUS04 & D & D & D & B & D & D & B & D & B & B & D & B & B & B & B & B & B & B & B & D & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & B & B & B & B & D & B & B & B & D
+34BUS05 & D & B & B & D & D & B & B & D & B & B & B & B & B & B & B & B & B & B & B & D & B & D & B & B & B & B & B & D & B & B & B & B & B & B & B & B & B & B & B & B & B & D & D & B
